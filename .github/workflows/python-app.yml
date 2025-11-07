@@ -81,7 +81,7 @@ jobs:
         cd src && python main.py
     
     - name: Upload artifacts
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: mirror-net-output
         path: |
