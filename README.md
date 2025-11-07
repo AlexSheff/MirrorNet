@@ -131,3 +131,4 @@ By integrating prediction, self-comparison, and adaptive introspection, such arc
 Developed for experimental AI cognition frameworks integrating predictive modeling, reflective feedback, and neural meta-architecture design.
 
 **Keywords:** MirrorNet, RPX protocol, reflective learning, meta-cognition, neural introspection, self-awareness in AI, predictive processing.
+![CI](https://github.com/AlexSheff/MirrorNet/actions/workflows/python-app.yml/badge.svg)
